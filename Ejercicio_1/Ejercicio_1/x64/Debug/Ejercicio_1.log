@@ -1,0 +1,8 @@
+﻿  Ejercicio2.cpp
+  Ejercicio3.cpp
+  Ejercicio4.cpp
+  Nombres.cpp
+D:\DISCO 1 TB 2025\2026\PYTHON Y C#\MODULO 2\Programacion_C++\Ejercicio_1\Ejercicio_1\Nombres.cpp(18,15): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+D:\DISCO 1 TB 2025\2026\PYTHON Y C#\MODULO 2\Programacion_C++\Ejercicio_1\Ejercicio_1\Nombres.cpp(18,17): warning C4309: 'inicializando': truncamiento de valor constante
+  Generando código...
+  Ejercicio_1.vcxproj -> D:\DISCO 1 TB 2025\2026\PYTHON Y C#\MODULO 2\Programacion_C++\Ejercicio_1\x64\Debug\Ejercicio_1.exe
