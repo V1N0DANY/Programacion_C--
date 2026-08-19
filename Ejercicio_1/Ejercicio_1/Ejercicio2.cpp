@@ -4,7 +4,7 @@
 #include <iostream>
 
 using namespace std;
-
+  
 int main2() {
 
 	double nota1, nota2, nota3, nota4, nota5;
