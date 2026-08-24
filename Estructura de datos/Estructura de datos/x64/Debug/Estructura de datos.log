@@ -1,2 +1,7 @@
 ﻿  EJERCICIO1.cpp
-  Estructura de datos.vcxproj -> D:\DISCO 1 TB 2025\2026\PYTHON Y C#\MODULO 2\Programacion_C++\Estructura de datos\x64\Debug\Estructura de datos.exe
+  EJERCICIO2.cpp
+  EJERCICIO3.cpp
+  EJERCICIO4.cpp
+D:\DISCO 1 TB 2025\2026\PYTHON Y C#\MODULO 2\Programacion_C++\Estructura de datos\Estructura de datos\EJERCICIO4.cpp(17,6): warning C4101: 'pos': variable local sin referencia
+  Generando código...
+D:\DISCO 1 TB 2025\2026\PYTHON Y C#\MODULO 2\Programacion_C++\Estructura de datos\Estructura de datos\EJERCICIO4.cpp(27,1): error C4700: se utilizó la variable local 'opcion' sin inicializar

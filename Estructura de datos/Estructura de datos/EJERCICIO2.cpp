@@ -4,7 +4,7 @@
 
 using namespace std; //permite omitir el std en cada salida de mensaje
 
-int main(){
+int main2(){
 
 	//1-. DECLARAR UN VECTOR VACIO
 	vector <int> numeros;
@@ -26,7 +26,7 @@ int main(){
 
 	//3-.ELIMINAR EL UTLIMO ELEMENTO INGRESADO
 
-	numeros.pop_back();
+
 
 	//4-. MOSTRAR LISTA 
 

@@ -18,17 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="EJERCICIO1.cpp" />
-    <ClCompile Include="EJERCICIO2.cpp" />
-    <ClCompile Include="EJERCICIO3.cpp" />
-    <ClCompile Include="EJERCICIO4.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5356a2ed-612d-466d-a65d-98ddf5d94f5d}</ProjectGuid>
-    <RootNamespace>Estructuradedatos</RootNamespace>
+    <ProjectGuid>{5c621b3e-66b1-46c5-a7f5-1b418b462daa}</ProjectGuid>
+    <RootNamespace>Funciones</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -144,6 +138,9 @@
       <EnableSegmentHeap>true</EnableSegmentHeap>
     </Manifest>
   </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Ejercicio1.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
